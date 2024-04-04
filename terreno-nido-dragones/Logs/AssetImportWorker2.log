@@ -1774,3 +1774,171 @@ Received Import Request.
 Start importing Assets/gravel-layer.terrainlayer using Guid(111c2c49c40abf54885c883c0ba58de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a6fe799624840edbd9824ac07a885a') in 0.037519 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 615.043164 seconds.
+  path: Assets/NewLayer 2.terrainlayer
+  artifactKey: Guid(20c3e82c319808946b94968ffe98c4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 2.terrainlayer using Guid(20c3e82c319808946b94968ffe98c4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0ecdbb36e92265378d0ba158fd4bc0') in 0.046070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.642285 seconds.
+  path: Assets/rock-layer.terrainlayer
+  artifactKey: Guid(20c3e82c319808946b94968ffe98c4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rock-layer.terrainlayer using Guid(20c3e82c319808946b94968ffe98c4d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fcbf78dfae1ddee8a0cd6a4c8e62b2') in 0.057337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.113508 seconds.
+  path: Assets/NewLayer 5.terrainlayer
+  artifactKey: Guid(56a40ca8971111b47be1b80a12ef270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 5.terrainlayer using Guid(56a40ca8971111b47be1b80a12ef270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f3e18e88e1ba17dc1f8f13599050b1') in 0.036494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.885314 seconds.
+  path: Assets/light-soil-layer.terrainlayer
+  artifactKey: Guid(56a40ca8971111b47be1b80a12ef270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/light-soil-layer.terrainlayer using Guid(56a40ca8971111b47be1b80a12ef270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61727a87bd967af0d2577f541e97853') in 0.026842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.011965 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(ae335e3def9d6844d9598da7d0b96747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(ae335e3def9d6844d9598da7d0b96747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd87310f6aa862d941afe0be0984b6cf4') in 0.032632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.036631 seconds.
+  path: Assets/gravel-layer.terrainlayer
+  artifactKey: Guid(ae335e3def9d6844d9598da7d0b96747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gravel-layer.terrainlayer using Guid(ae335e3def9d6844d9598da7d0b96747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a00d27d719912dec40b4f3feab59e1d') in 0.038395 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.986383 seconds.
+  path: Assets/NewLayer 1.terrainlayer
+  artifactKey: Guid(afe38eda495c3f940a4ffa9dea103a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 1.terrainlayer using Guid(afe38eda495c3f940a4ffa9dea103a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb944289a811c02fd53c75b4434057f') in 0.034944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.083075 seconds.
+  path: Assets/light-gravel-layer.terrainlayer
+  artifactKey: Guid(afe38eda495c3f940a4ffa9dea103a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/light-gravel-layer.terrainlayer using Guid(afe38eda495c3f940a4ffa9dea103a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61bf89fccceecc93afaf804020942831') in 0.035008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.349884 seconds.
+  path: Assets/NewLayer 3.terrainlayer
+  artifactKey: Guid(b88882d1d780cfd4891db7a8b2fefd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 3.terrainlayer using Guid(b88882d1d780cfd4891db7a8b2fefd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ab9a9c6737951bd0d6c25ad1864f2c') in 0.035008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.132675 seconds.
+  path: Assets/soil-layer.terrainlayer
+  artifactKey: Guid(b88882d1d780cfd4891db7a8b2fefd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/soil-layer.terrainlayer using Guid(b88882d1d780cfd4891db7a8b2fefd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff31e130e78f0462510808e0a93164c0') in 0.037833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.975883 seconds.
+  path: Assets/NewLayer 4.terrainlayer
+  artifactKey: Guid(d9e3da77127ea0349ba26db22202edaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 4.terrainlayer using Guid(d9e3da77127ea0349ba26db22202edaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382bb23a7e68532850258b97eeae09f1') in 0.033379 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.510914 seconds.
+  path: Assets/sand-layer.terrainlayer
+  artifactKey: Guid(d9e3da77127ea0349ba26db22202edaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sand-layer.terrainlayer using Guid(d9e3da77127ea0349ba26db22202edaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0eaa64125b09747d4164bb2d79f702a') in 0.029284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 16.011782 seconds.
+  path: Assets/Layers
+  artifactKey: Guid(c9a238f19e494854c98c5862b171eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layers using Guid(c9a238f19e494854c98c5862b171eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aafda79904c9fcdb53b4e4f60df6f41') in 0.001614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 232.814132 seconds.
+  path: Assets/Textures/lava-texture.jpg
+  artifactKey: Guid(bdab40115c51bc640922076ffcc21b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/lava-texture.jpg using Guid(bdab40115c51bc640922076ffcc21b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2addfb355c7f9ad5d9e22429b28c267e') in 0.167712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1174.284208 seconds.
+  path: Assets/Layers/lava-layer.terrainlayer
+  artifactKey: Guid(a17e9c0051de483418535c6215ac988c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layers/lava-layer.terrainlayer using Guid(a17e9c0051de483418535c6215ac988c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8618281e777c9b2f507acc9aa3d08db2') in 0.043021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 391.650576 seconds.
+  path: Assets/Textures/lava-rock-texture.jpeg
+  artifactKey: Guid(654ab8d0aefa6d84383589a0f681eccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/lava-rock-texture.jpeg using Guid(654ab8d0aefa6d84383589a0f681eccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8186f1a167ae20b73fc14eb1101435') in 0.054142 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 19.309832 seconds.
+  path: Assets/Layers/lava-rock-layer.terrainlayer
+  artifactKey: Guid(10674310a845af5499aac9b950ac0869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layers/lava-rock-layer.terrainlayer using Guid(10674310a845af5499aac9b950ac0869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81d4264a06a4466877484319900c11c') in 0.024615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 310.677471 seconds.
+  path: Assets/Textures/lava-fire-texture.png
+  artifactKey: Guid(7b39af24908d073438e0ad7da75acd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/lava-fire-texture.png using Guid(7b39af24908d073438e0ad7da75acd8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15ff588b728cf005feb14227b247170') in 0.043095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.398245 seconds.
+  path: Assets/Layers/lava-fire-layer.terrainlayer
+  artifactKey: Guid(bb0dfc2c095c9b448904616a06fab624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layers/lava-fire-layer.terrainlayer using Guid(bb0dfc2c095c9b448904616a06fab624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a59c68147e0117f584d2d92d56ec6a0') in 0.038918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1727.524695 seconds.
+  path: Assets/Textures/snow-texture.jpeg
+  artifactKey: Guid(22e3836a7fb51e34fbad735b401db2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/snow-texture.jpeg using Guid(22e3836a7fb51e34fbad735b401db2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a95654dcbb294408d1be07da954832') in 0.038680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.171954 seconds.
+  path: Assets/Layers/snow-layer.terrainlayer
+  artifactKey: Guid(96ded0ef36da14a45907e8debb309292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Layers/snow-layer.terrainlayer using Guid(96ded0ef36da14a45907e8debb309292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77edb471aad57190d86680943be9af5') in 0.019038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
