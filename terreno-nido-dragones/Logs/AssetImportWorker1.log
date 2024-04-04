@@ -190,3 +190,264 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(8d3a7e065294efd42922ad3ba0fcf2bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ef1f6f77b447d7ed0f1792088f5606') in 0.002146 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 908.754554 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_4_Diffuse2.mat
+  artifactKey: Guid(68ad6b9d3a9276e449c29da4106ae69a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_4_Diffuse2.mat using Guid(68ad6b9d3a9276e449c29da4106ae69a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '391f71d0441ed6279d586acfb35b037d') in 0.160489 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Yoge
+  artifactKey: Guid(84ec7efdb8f66074ea1891335643f157) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge using Guid(84ec7efdb8f66074ea1891335643f157) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e88410bc6ef66588eedd485ba03dc4c0') in 0.017056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_10_Diffuse2.mat
+  artifactKey: Guid(49573dc92ae9fb24f918dd2ac107e108) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_10_Diffuse2.mat using Guid(49573dc92ae9fb24f918dd2ac107e108) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '14414a0e39c4e3025e962647a17c973d') in 0.021531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Yoge/Textures
+  artifactKey: Guid(b103182da9e32e04aa356300144159bd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures using Guid(b103182da9e32e04aa356300144159bd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '9c299c698e3203df472b18bb2490cc7b') in 0.016193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_14_Diffuse.mat
+  artifactKey: Guid(f099d678f11244a4da794d174deefbc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_14_Diffuse.mat using Guid(f099d678f11244a4da794d174deefbc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7f104a8151470f87fb8f541d7361d56a') in 0.018296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_6_Diffuse.mat
+  artifactKey: Guid(de84bd5ff6010b3449adf2fe0be3198c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_6_Diffuse.mat using Guid(de84bd5ff6010b3449adf2fe0be3198c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '218fff0da0f91cf93ce9f034445ca899') in 0.019331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_12_Diffuse.mat
+  artifactKey: Guid(b9e04360f8016b54ea047eb3e1f01979) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_12_Diffuse.mat using Guid(b9e04360f8016b54ea047eb3e1f01979) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4009ac192d1c7edc0f46618c8c366211') in 0.020033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_3_Diffuse.mat
+  artifactKey: Guid(65e30aa45b4ee43429a488d5bf9d19d3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_3_Diffuse.mat using Guid(65e30aa45b4ee43429a488d5bf9d19d3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'bb030ce2800d6bbb497f7e0b81721f28') in 0.020912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_2_Diffuse2.mat
+  artifactKey: Guid(d4cce5fe6ec9bd747a845d53c1961ca4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_2_Diffuse2.mat using Guid(d4cce5fe6ec9bd747a845d53c1961ca4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'bbcbc42ec64607e280fbdf856f58bcd3') in 0.020982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_1_Diffuse.mat
+  artifactKey: Guid(489ae478e6164b14688c79505d0f91c5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_1_Diffuse.mat using Guid(489ae478e6164b14688c79505d0f91c5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd748b6c40a3940566fb5ac15d1a383b4') in 0.020109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_3_Diffuse2.mat
+  artifactKey: Guid(d9ebaed16fafad54ca8fa45dca55461b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_3_Diffuse2.mat using Guid(d9ebaed16fafad54ca8fa45dca55461b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '5795c231ef2501c28857592c04b9e85a') in 0.019500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_2_Diffuse3.mat
+  artifactKey: Guid(f1e11078f6e8dce4889429585424765b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_2_Diffuse3.mat using Guid(f1e11078f6e8dce4889429585424765b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '60a5ae1a81e3576aa5006bb236e2ef5e') in 0.018461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_10_Diffuse.mat
+  artifactKey: Guid(af3495f948dc9a34488ae4ef2560b899) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_10_Diffuse.mat using Guid(af3495f948dc9a34488ae4ef2560b899) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '19b41c3267b7b26b8ba7fd5ae60f7339') in 0.018574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_9_Diffuse.mat
+  artifactKey: Guid(b12a82ca26769fb4b972e6cb3baf7a2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_9_Diffuse.mat using Guid(b12a82ca26769fb4b972e6cb3baf7a2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7f9ad39f02cc5dd869716a10f65a7900') in 0.016773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_6_Diffuse2.mat
+  artifactKey: Guid(74c5aaec60fdef644aa7b903211806db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_6_Diffuse2.mat using Guid(74c5aaec60fdef644aa7b903211806db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '37c51cac482f9084f95228840e405f57') in 0.017682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_10_Diffuse3.mat
+  artifactKey: Guid(34ae4aa336734564e8f1810dc6d63366) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Yoge/Textures/Stylized - Nature/Materials/Texture_10_Diffuse3.mat using Guid(34ae4aa336734564e8f1810dc6d63366) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '83a66325e822adb5615c8aa07c040d42') in 0.021172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9.783254 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials
+  artifactKey: Guid(0eece8c8a92f4bd47aac6f28dae21b58) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials using Guid(0eece8c8a92f4bd47aac6f28dae21b58) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7fbcff9ae97362020f4015e0e5aed68d') in 0.013789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_11_Diffuse.mat
+  artifactKey: Guid(d8da90d9313f62f40ab0769c7f5df7f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_11_Diffuse.mat using Guid(d8da90d9313f62f40ab0769c7f5df7f3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'a234b642c10880c4b3a0ff2aaae17405') in 0.020144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_1_Diffuse3.mat
+  artifactKey: Guid(8318902aa4672ee4f9ed7147dbc63e98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_1_Diffuse3.mat using Guid(8318902aa4672ee4f9ed7147dbc63e98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'e5f85ea1282298845f54df100b4864ea') in 0.022690 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_1_Diffuse2.mat
+  artifactKey: Guid(d65474bcfca68fb4ca04c0ed2506644d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_1_Diffuse2.mat using Guid(d65474bcfca68fb4ca04c0ed2506644d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '87bd7ce240d8c170ed0e6a4c850c8b89') in 0.020971 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_2_Diffuse.mat
+  artifactKey: Guid(96f4bd9f4c14b3f49b1471ee79387d82) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_2_Diffuse.mat using Guid(96f4bd9f4c14b3f49b1471ee79387d82) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'd8e09f07229987e32aca46978df8ddb1') in 0.018915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_12_Diffuse.mat
+  artifactKey: Guid(b9e04360f8016b54ea047eb3e1f01979) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_12_Diffuse.mat using Guid(b9e04360f8016b54ea047eb3e1f01979) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'ea3297de38ef6e89438045bb98a436fe') in 0.024685 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_13_Diffuse2.mat
+  artifactKey: Guid(c6e94df7bb432d243866168219013fdd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_13_Diffuse2.mat using Guid(c6e94df7bb432d243866168219013fdd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '37ddc3b44d4222fde48522420c8d8142') in 0.020742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_2_Diffuse2.mat
+  artifactKey: Guid(d4cce5fe6ec9bd747a845d53c1961ca4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_2_Diffuse2.mat using Guid(d4cce5fe6ec9bd747a845d53c1961ca4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'de4e3b35dded572816fa8c5dc5c4c4e2') in 0.021400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_2_Diffuse3.mat
+  artifactKey: Guid(f1e11078f6e8dce4889429585424765b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_2_Diffuse3.mat using Guid(f1e11078f6e8dce4889429585424765b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '7a0640f40f223b7e53059bfef84c6c04') in 0.020759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_9_Diffuse.mat
+  artifactKey: Guid(b12a82ca26769fb4b972e6cb3baf7a2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_9_Diffuse.mat using Guid(b12a82ca26769fb4b972e6cb3baf7a2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: 'defb1daeaee1df8581925c3f73356c41') in 0.019197 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_4_Diffuse2.mat
+  artifactKey: Guid(68ad6b9d3a9276e449c29da4106ae69a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_4_Diffuse2.mat using Guid(68ad6b9d3a9276e449c29da4106ae69a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)  -> (artifact id: '4e61d9c99267996c8cbf6e5b78f95320') in 0.018875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 30.395012 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_3_Diffuse3.mat
+  artifactKey: Guid(ec4cc78bb10988c4a936e1ab7c494927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_3_Diffuse3.mat using Guid(ec4cc78bb10988c4a936e1ab7c494927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bbdb875b7d4b66463273840a783e52a') in 0.277493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_6_Diffuse.mat
+  artifactKey: Guid(de84bd5ff6010b3449adf2fe0be3198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_6_Diffuse.mat using Guid(de84bd5ff6010b3449adf2fe0be3198c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ea11f985f8b2f24c3b334b9992cf36') in 0.028817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_10_Diffuse2.mat
+  artifactKey: Guid(49573dc92ae9fb24f918dd2ac107e108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_10_Diffuse2.mat using Guid(49573dc92ae9fb24f918dd2ac107e108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8bf00368d51ae82e2b28d8e5ecefa65') in 0.019416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_7_Diffuse2.mat
+  artifactKey: Guid(985ca7c0c60ed3843a4e181157dcfccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_7_Diffuse2.mat using Guid(985ca7c0c60ed3843a4e181157dcfccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beeb5bdb5413f9c17c0e234233d3cfa9') in 0.020045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Textures/Stylized - Nature/Materials/Texture_11_Diffuse.mat
+  artifactKey: Guid(d8da90d9313f62f40ab0769c7f5df7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Stylized - Nature/Materials/Texture_11_Diffuse.mat using Guid(d8da90d9313f62f40ab0769c7f5df7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b452cafc036d6c8db29759a006f6026d') in 0.022615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
