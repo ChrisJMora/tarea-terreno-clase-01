@@ -8,3 +8,4 @@ Creación de un terreno en Unity 3D con la temática de un nido de dragones.
 # Progreso
 ![Esculptura](imagenes/esculptura.png)
 ![Texturas](imagenes/texturas.png)
+![Detalles y ambientación](imagenes/detalles-ambientacion.png)
